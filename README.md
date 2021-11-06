@@ -1,2 +1,2 @@
 # Deep_Learning
-Рomework of the course on Stepik "Deep Learning"
+Homework of the course on Stepik "Deep Learning"
